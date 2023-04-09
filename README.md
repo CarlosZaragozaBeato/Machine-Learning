@@ -13,3 +13,5 @@
 * Random Forest
 * Dimensionality Reduction 
 * Gradient Boosting
+* OTHERS
+
